@@ -14,7 +14,9 @@ from scipy import ndimage
 import torch
 
 from mayavi import mlab
-
+#===
+#testadd commid hkhkh
+#====
 root_function = r'D:\RIZKI\CHIBA\KAMPUS\Bleeding'
 os.chdir(root_function)
 from function_LUNA_LIDC import *
